@@ -25,7 +25,7 @@ https://www.statsmodels.org/stable/examples/notebooks/generated/stl_decompositio
 ## Trend decomposition
 
 
-## Loess part:
+## Loess:
 
 Loess regression is a **nonparametric** technique that uses *local weighted* regression to fit a smooth curve through points in a scatter plot. Loess curves can reveal trends and cycles in data that might be difficult to model with a parametric curve.
 
