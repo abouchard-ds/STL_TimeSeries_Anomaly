@@ -1,5 +1,5 @@
 # STL_TimeSeries_Anomaly
-Implementation of a Seasonal and Trend decomposition using Loess
+Implementation of an anomaly detection algorithm using "Seasonal and Trend decomposition using Loess".
 
 # Research
 
