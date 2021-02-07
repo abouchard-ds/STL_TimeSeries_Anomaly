@@ -19,11 +19,15 @@ https://www.statsmodels.org/stable/examples/notebooks/generated/stl_decompositio
 
 
 
-## Seasonal decomposition
+## Seasonal-Trend decomposition
+STL find the trend and seasonality and take the residual from the raw data versus the model.
 
+```math
+Raw_data - (trend + seasonnality) = residual
+```
 
-## Trend decomposition
-
+- Can use the residual to find anomalies (datapoints that are not explained by the trend and seasonality);
+- Can use trend and seasonnality to forecast futur behavior;
 
 ## Loess:
 
