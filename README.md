@@ -3,20 +3,38 @@ Implementation of an anomaly detection algorithm using "Seasonal and Trend decom
 
 # Research
 
-**Original paper**:
-http://www.nniiem.ru/file/news/2016/stl-statistical-model.pdf
+Research papers:
+- **Original paper**: http://www.nniiem.ru/file/news/2016/stl-statistical-model.pdf
+- Improvement: https://ojs.aaai.org/index.php/AAAI/article/view/4480/4358
 
-https://ojs.aaai.org/index.php/AAAI/article/view/4480/4358
+https://www.google.com/url?q=http://scholar.google.ca/scholar%3Fq%3Dseasonal-trend%2Bdecomposition%26hl%3Den%26as_sdt%3D0%26as_vis%3D1%26oi%3Dscholart&sa=U&ved=2ahUKEwjM05X8m9buAhXxm-AKHRA_BSAQgQN6BAgLEAE&usg=AOvVaw3LNqnH2Ggwh8BRsnkKxW-2
 
-https://otexts.com/fpp2/stl.html
+Wonderful book: 
+- https://otexts.com/fpp2/stl.html
+- https://otexts.com/fpp2/forecasting-decomposition.html
+- https://otexts.com/fpp2/stationarity.html
 
-https://en.wikipedia.org/wiki/Decomposition_of_time_series
+General concepts:
+- https://en.wikipedia.org/wiki/Decomposition_of_time_series
 
-https://towardsdatascience.com/stl-decomposition-how-to-do-it-from-scratch-b686711986ec
+
 
 **Python Library**:
 https://www.statsmodels.org/stable/examples/notebooks/generated/stl_decomposition.html
 
+https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2
+
+
+Low quality articles but still help:
+- This is **not from scratch** at all: https://towardsdatascience.com/stl-decomposition-how-to-do-it-from-scratch-b686711986ec
+- https://stats.stackexchange.com/questions/298560/is-stl-a-good-technique-for-forecasting-instead-of-arima
+- https://stats.stackexchange.com/questions/298560/is-stl-a-good-technique-for-forecasting-instead-of-arima
+
+
+Videos:
+- https://youtu.be/DZ403FNW2YI
+- https://youtu.be/1NXryMoU7Ho
+- https://youtu.be/mG4ZpEhRKHA
 
 
 ## Seasonal-Trend decomposition
