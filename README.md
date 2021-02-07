@@ -10,6 +10,7 @@ Cleveland RB, Cleveland WS, McRae JE, Terpenning I. STL: A seasonal-trend decomp
 
 Wen Q, Gao J, Song X, Sun L, Xu H, Zhu S. RobustSTL: A robust seasonal-trend decomposition algorithm for long time series. InProceedings of the AAAI Conference on Artificial Intelligence 2019 Jul 17 (Vol. 33, No. 01, pp. 5409-5416).
 - Improvement: https://ojs.aaai.org/index.php/AAAI/article/view/4480/4358
+- https://www.groundai.com/project/robuststl-a-robust-seasonal-trend-decomposition-algorithm-for-long-time-series/1
 
 https://www.google.com/url?q=http://scholar.google.ca/scholar%3Fq%3Dseasonal-trend%2Bdecomposition%26hl%3Den%26as_sdt%3D0%26as_vis%3D1%26oi%3Dscholart&sa=U&ved=2ahUKEwjM05X8m9buAhXxm-AKHRA_BSAQgQN6BAgLEAE&usg=AOvVaw3LNqnH2Ggwh8BRsnkKxW-2
 
