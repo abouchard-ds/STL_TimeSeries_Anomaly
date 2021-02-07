@@ -4,6 +4,8 @@ Implementation of an anomaly detection algorithm using "Seasonal and Trend decom
 # Research
 
 Research papers:
+
+Cleveland RB, Cleveland WS, McRae JE, Terpenning I. STL: A seasonal-trend decomposition. Journal of official statistics. 1990;6(1):3-73.
 - **Original paper**: http://www.nniiem.ru/file/news/2016/stl-statistical-model.pdf
 - Improvement: https://ojs.aaai.org/index.php/AAAI/article/view/4480/4358
 
