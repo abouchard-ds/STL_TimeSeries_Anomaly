@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Decomposition_of_time_series
 
 https://towardsdatascience.com/stl-decomposition-how-to-do-it-from-scratch-b686711986ec
 
-** Python Library**:
+**Python Library**:
 https://www.statsmodels.org/stable/examples/notebooks/generated/stl_decomposition.html
 
 
